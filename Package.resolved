@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Contentful",
-        "repositoryURL": "https://github.com/contentful/contentful.swift",
+        "repositoryURL": "https://github.com/dodgecm/contentful.swift",
         "state": {
-          "branch": null,
-          "revision": "71be0f24624275414f9be1a39a7faebace2cd830",
-          "version": "5.4.1"
+          "branch": "fix-linking-crash-swift-5-4",
+          "revision": "63c515e02b83f9fca85ba4015de6bda7334cc8d9",
+          "version": null
         }
       }
     ]
