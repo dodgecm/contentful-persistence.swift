@@ -1,2 +1,2 @@
 github "AliSoftware/OHHTTPStubs" "9.1.0"
-github "dodgecm/contentful.swift" "fix-linking-crash-swift-5-4"
+github "dodgecm/contentful.swift" "5.5.1"

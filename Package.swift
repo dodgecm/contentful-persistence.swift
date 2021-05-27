@@ -9,7 +9,7 @@ let package = Package(
             targets: ["ContentfulPersistence"])
     ],
     dependencies: [
-        .package(url: "https://github.com/dodgecm/contentful.swift", .branch("fix-linking-crash-swift-5-4"))
+        .package(url: "https://github.com/dodgecm/contentful.swift", .upToNextMajor(from: "5.5.1"))
     ],
     targets: [
         .target(

@@ -5,9 +5,9 @@
         "package": "Contentful",
         "repositoryURL": "https://github.com/dodgecm/contentful.swift",
         "state": {
-          "branch": "fix-linking-crash-swift-5-4",
+          "branch": null,
           "revision": "63c515e02b83f9fca85ba4015de6bda7334cc8d9",
-          "version": null
+          "version": "5.5.1"
         }
       }
     ]
